@@ -23,7 +23,7 @@ NeuralNode 2 is an enhanced version of the NeuralNode project, providing a more 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/neuralNode-2
    cd NeuralNode 2
    ```
 2. Install the required dependencies:
